@@ -1,3 +1,4 @@
-/screenshots/
-/.pytest_cache/
-/.idea/
+screenshots/
+.pytest_cache/
+.idea/
+__pycache__/
